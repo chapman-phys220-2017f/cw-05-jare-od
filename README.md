@@ -1,8 +1,8 @@
 # PHYS220 CW 5
 
-**Author(s):** **CHANGEME**
+**Author(s):** **Jarod Penniman and Jared Love**
 
-[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-05-YOURNAME)
+[![Build Status](https://travis-ci.org/chapman-phys220-2017f/cw-05-jare-od.svg?branch=master)](https://travis-ci.org/chapman-phys220-2017f/cw-05-jare-od)
 
 ## Specification
 
@@ -15,7 +15,7 @@ Pro-tip: using git to manage conflicts on Jupyter notebooks is a pain. I recomme
 
 Analyze in this section what you found useful about this assignment in your own words. Include any lingering questions or comments that you may have.
 
-**CHANGEME**
+We liked the emphasis on plotting functions and showing all of the customizable features when using matplotlib.  You really have a lot of control in making your graphs exactly how you want them to look.
 
 ## Honor Pledge
 
@@ -23,7 +23,8 @@ I pledge that all the work in this repository is my own with only the following 
 
 * Content of starter files supplied by the instructor;
 * Code borrowed from another source, documented with correct attribution in the code and summarized here.
+- Borrowed code regarding 3D plots in matplotlib as well as how to deal with the Caushy sampling for the Lorentzian.
 
 Signed,
 
-**YOURNAME**
+**Jarod Penniman and Jared Love**
